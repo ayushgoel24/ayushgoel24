@@ -14,9 +14,9 @@
 
 - 🔭 I’m currently working on [<current project>](<current project link>)
 
-- 🌱 I’m currently learning **<current learnings>**
+- 🌱 I've experience in **Perception**, **Robot Learning**, and **Software Development**.
 
-- 👨‍💻 All of my projects are available at [https://ayushgoel24.github.io](https://ayushgoel24.github.io)
+- 👨‍💻 My Research interests include **Perception**, **Deep Learning**, and **Robot Learning**. Some of my projects are available at [https://ayushgoel24.github.io](https://ayushgoel24.github.io)
 
 - 📫 How to reach me **ayush.goel2427@gmail.com**
 
