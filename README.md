@@ -1,9 +1,14 @@
-<h1 align="center">Hi 👋, I'm Ayush Goel</h1>
+<h1> 
+  < Hello World, I'm <a href="https://www.linkedin.com/in/adityagarde/" target="_blank"> Ayush Goel</a> /> 
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30" height="30">  
+</h1>
 <h3 align="center">An enthusiastic researcher in robot autonomy and a Software Developer</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ayushgoel24&label=Profile%20views&color=0e75b6&style=flat" alt="ayushgoel24" /> </p>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayushgoel24" alt="ayushgoel24" /></a> </p> -->
+
+👨‍💻 ABOUT ME
 
 - 🔭 I’m currently working on [<current project>](<current project link>)
 
