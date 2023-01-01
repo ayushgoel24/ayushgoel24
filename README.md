@@ -6,6 +6,8 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ayushgoel24&label=Profile%20views&color=0e75b6&style=flat" alt="ayushgoel24" /> </p>
 
+[![Ayush's GitHub Banner](./RoboMuse_Assistant_AIR_IITD.jpeg)](https://ayushgoel24.github.io)
+
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayushgoel24" alt="ayushgoel24" /></a> </p> -->
 
 👨‍💻 ABOUT ME
