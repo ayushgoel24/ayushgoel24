@@ -36,6 +36,9 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" />
     </a>
     <!--  -->
+    <a href="https://www.ros.org" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/ros/ros-icon.svg" alt="ros" width="40" height="40" />
+    </a>
     <a href="https://opencv.org/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40" />
     </a>
@@ -62,13 +65,16 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" /> 
     </a>
     <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" /> 
+      <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="aws" width="40" height="40" />
     </a>
     <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> 
       <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40" />
     </a>
     <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40" />
+      <img src="https://www.vectorlogo.zone/logos/vim/vim-icon.svg" alt="bash" width="40" height="40" />
+    </a>
+    <a title="Hibernate" href="https://github.com/hibernate" target="_blank">
+      <img src="https://raw.githubusercontent.com/gilbarbara/logos/f4c8e8b933aa80ce83b6d6d387e016bf4cb4e376/logos/hibernate.svg" alt="Hibernate" width="45" height="45" />
     </a>
     <a href="https://www.elastic.co" target="_blank" rel="noreferrer">
       <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40" />
@@ -93,6 +99,15 @@
     </a>
     <a href="https://spring.io/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40" />
+    </a>
+    <a title="Maven" href="https://maven.apache.org/" target="_blank">
+        <img src="https://raw.githubusercontent.com/gilbarbara/logos/f4c8e8b933aa80ce83b6d6d387e016bf4cb4e376/logos/maven.svg" alt="maven" width="40" height="40" />
+    </a>
+    <a title="Gradle" href="https://gradle.org/" target="_blank">
+        <img src="https://raw.githubusercontent.com/gilbarbara/logos/f4c8e8b933aa80ce83b6d6d387e016bf4cb4e376/logos/gradle.svg" alt="gradle" width="40" height="40" />
+    </a>
+    <a title="Tomcat" href="http://tomcat.apache.org/" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Apache_Tomcat_logo.svg/1280px-Apache_Tomcat_logo.svg.png" alt="tomcat" width="40" height="40" />
     </a>
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" />
