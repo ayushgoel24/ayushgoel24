@@ -2,7 +2,7 @@
   < Hello World, I'm <a href="https://www.linkedin.com/in/adityagarde/" target="_blank"> Ayush Goel</a> /> 
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30" height="30">  
 </h1>
-<h3 align="center">An enthusiastic researcher in robot autonomy and a Software Developer</h3>
+<h3 align="center">An enthusiastic researcher in Robot Autonomy and a Software Developer</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ayushgoel24&label=Profile%20views&color=0e75b6&style=flat" alt="ayushgoel24" /> </p>
 
@@ -10,17 +10,33 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayushgoel24" alt="ayushgoel24" /></a> </p> -->
 
-👨‍💻 ABOUT ME
+<h2>👨‍💻 ABOUT ME</h2>
 
-- 🔭 I’m currently working on [<current project>](<current project link>)
+- 🔭 I’m a graduate student studying Robotics Engineering from University of Pennsylvania, specializing in Perception and Robot Learning.
 
 - 🌱 I've experience in **Perception**, **Robot Learning**, and **Software Development**.
 
 - 👨‍💻 My Research interests include **Perception**, **Deep Learning**, and **Robot Learning**. Some of my projects are available at [https://ayushgoel24.github.io](https://ayushgoel24.github.io)
 
-- 📫 How to reach me **ayush.goel2427@gmail.com**
+- 📄 I've previously worked as a Senior Software Development Engineer having an experience of 4 years. I've also worked in areas of Computer Vision, ROS, Mobile Robotics, and Control.
+  
+- 📫 Feel free to reach me at **ayush.goel2427@gmail.com**
+  
 
-- 📄 Know about my experiences [<resume here>](<resume here>)
+<h2>🛠 My Toolkit</h2>
+  
+  <p align="left">
+    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" /> 
+    </a>
+    <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
+    </a>
+    <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" />
+    </a>
+  </p>
+  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
