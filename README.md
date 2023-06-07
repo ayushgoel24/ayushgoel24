@@ -157,6 +157,13 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushgoel24&theme=radical" alt="ayushgoel24" width="45%" />
   </p>
   
+ ### Contribution Chart
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ayushgoel24/ayushgoel24/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ayushgoel24/ayushgoel24/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
+  
 
 <h2>🤝 Let's stay connected!</h2>
   <p align="left">
