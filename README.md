@@ -19,9 +19,7 @@
 - 👨‍💻 My Research interests include **Perception**, **Deep Learning**, and **Robot Learning**. Some of my projects are available at [https://ayushgoel24.github.io](https://ayushgoel24.github.io)
 
 - 📄 I've previously worked as a Senior Software Development Engineer having an experience of 4 years. I've also worked in areas of Computer Vision, ROS, Mobile Robotics, and Control.
-  
 - 📫 Feel free to reach me at **ayush.goel2427@gmail.com**
-  
 
 <h2>🛠 My Toolkit</h2>
   
@@ -149,7 +147,7 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40" />
     </a>
   </p>
-  
+
 
 <h2>🏆 Github Stats</h2>
   <p align="center">
@@ -157,13 +155,13 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushgoel24&theme=radical" alt="ayushgoel24" width="45%" />
   </p>
   
- ### Contribution Chart
+### Contribution Chart
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ayushgoel24/ayushgoel24/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ayushgoel24/ayushgoel24/output/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
-  
+
 
 <h2>🤝 Let's stay connected!</h2>
   <p align="left">
