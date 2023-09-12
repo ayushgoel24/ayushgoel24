@@ -6,7 +6,7 @@
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=ayushgoel24&label=Profile%20views&color=0e75b6&style=flat" alt="ayushgoel24" />
-  [![LeetCode user AyushGoel24](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2FAyushGoel24&logo=leetcode&logoColor=yellow)](https://leetcode.com/AyushGoel24/)
+  <img src="https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2FAyushGoel24&logo=leetcode&logoColor=yellow" alt="Leetcode" />
 </p>
 
 [![Ayush's GitHub Banner](./assets/images/RoboMuse_Assistant_AIR_IITD.jpeg)](https://ayushgoel24.github.io)
