@@ -1,5 +1,5 @@
 <h1> 
-  < Hello World, I'm <a href="https://www.linkedin.com/in/adityagarde/" target="_blank"> Ayush Goel</a> /> 
+  < Hello World, I'm <a href="https://www.linkedin.com/in/ayushsgoel/" target="_blank"> Ayush Goel</a> /> 
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30" height="30">  
 </h1>
 <h3 align="center">An enthusiastic researcher in Robot Autonomy and a Software Developer</h3>
@@ -158,12 +158,12 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushgoel24&theme=radical" alt="ayushgoel24" width="45%" />
   </p>
   
-<h2>🚧 Contribution Chart</h2>
+<!--<h2>🚧 Contribution Chart</h2>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ayushgoel24/ayushgoel24/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ayushgoel24/ayushgoel24/output/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="github-snake.svg" />
-</picture>
+</picture>-->
 
 
 <h2>🤝 Let's stay connected!</h2>
