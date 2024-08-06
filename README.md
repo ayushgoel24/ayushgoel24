@@ -155,7 +155,7 @@
 
 <h2>🏆 Github Stats</h2>
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=ayushgoel24&theme=radical&show_icons=true&locale=en" alt="ayushgoel24" width="45%" />
+<!--     <img src="https://github-readme-stats.vercel.app/api?username=ayushgoel24&theme=radical&show_icons=true&locale=en" alt="ayushgoel24" width="45%" /> -->
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushgoel24&theme=radical" alt="ayushgoel24" width="45%" />
   </p>
   
