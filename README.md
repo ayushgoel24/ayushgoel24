@@ -17,13 +17,25 @@
 
 <h2>👨‍💻 About Me</h2>
 
-- 🔭 I’m a graduate student studying Robotics Engineering from University of Pennsylvania, specializing in Perception and Robot Learning.
+🔭 I’m an Experienced Software Engineer with over 5 years of experience in software development, system architecture, cloud infrastructure, and team leadership. I specialize in transforming technical challenges into actionable solutions that improve efficiency, reduce costs, and increase scalability.
+
+🌱 Areas of Expertise:
+
+- Strategic Innovation: Engineered an AWS data pipeline at TDK InvenSense that slashed operational costs and tripled data processing speeds, showcasing my ability to integrate complex systems for enhanced performance.
+- Leadership Excellence: As Team Lead at Unicommerce eSolutions, I mentored software engineers, spearheading code and design reviews, driving significant system improvements, and fostering a culture of excellence and innovation.
+- Platform Enhancements: Boosted system performance and reliability by implementing sharding, Master-Slave replication, and robust monitoring with Prometheus and Grafana. Enhanced efficiency and scalability through event-driven architecture and HAProxy Load Balancer, significantly reducing API calls by 25% and downtime by 40%.
+- Global Impact: Spearheaded international market expansion, growing our customer base by 50% through strategic partnerships with global marketplaces.
+- Technical Proficiency: Expert in Java, Python, Go, and C++, with mastery in Docker, Kubernetes, Jenkins, and AWS, equipped to handle diverse software development projects.
+- Award-Winning Impact: Recognized with 'Above and Beyond Call of Duty Award' for outstanding leadership and technical contributions.
+- Community Engagement: Active in collaboration and knowledge sharing, contributing to a positive and inclusive technology culture.
+
+<!-- - 🔭 I’m a graduate student studying Robotics Engineering from University of Pennsylvania, specializing in Perception and Robot Learning.
 
 - 🌱 I've experience in **Perception**, **Robot Learning**, and **Software Development**.
 
 - 👨‍💻 My Research interests include **Perception**, **Deep Learning**, and **Robot Learning**. Some of my projects are available at [https://ayushgoel24.github.io](https://ayushgoel24.github.io)
 
-- 📄 I've previously worked as a Senior Software Development Engineer having an experience of 4 years. I've also worked in areas of Computer Vision, ROS, Mobile Robotics, and Control.
+- 📄 I've previously worked as a Senior Software Development Engineer having an experience of 4 years. I've also worked in areas of Computer Vision, ROS, Mobile Robotics, and Control. -->
 - 📫 Feel free to reach me at **ayush.goel2427@gmail.com**
 
 <h2>🛠 My Toolkit</h2>
